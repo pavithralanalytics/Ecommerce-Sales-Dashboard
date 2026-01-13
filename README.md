@@ -1,3 +1,4 @@
+![Dashboard Preview](Power BI DASHBOARD.png)
 # Ecommerce Sales Dashboard 📊
 
 This project is a Power BI dashboard designed to analyze ecommerce sales performance across different dimensions such as profit, sales amount, quantity, categories, customers, and payment methods.
